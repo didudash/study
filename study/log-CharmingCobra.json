@@ -1,0 +1,159 @@
+{
+    "Participant": "CharmingCobra",
+    "Emotional": "True",
+    "GameStates": [
+        {
+            "Round": 0,
+            "PlayerScore": 22,
+            "NICOScore": 3,
+            "PlayerCoins": 5,
+            "NICOCoins": 7,
+            "PlayerReturned": false,
+            "NICOReturned": true
+        },
+        {
+            "Round": 1,
+            "PlayerScore": 19,
+            "NICOScore": 7,
+            "PlayerCoins": 6,
+            "NICOCoins": 3,
+            "PlayerReturned": false,
+            "NICOReturned": true
+        },
+        {
+            "Round": 2,
+            "PlayerScore": 14,
+            "NICOScore": 11,
+            "PlayerCoins": 4,
+            "NICOCoins": 1,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 3,
+            "PlayerScore": 19,
+            "NICOScore": 6,
+            "PlayerCoins": 5,
+            "NICOCoins": 4,
+            "PlayerReturned": false,
+            "NICOReturned": true
+        },
+        {
+            "Round": 4,
+            "PlayerScore": 16,
+            "NICOScore": 11,
+            "PlayerCoins": 6,
+            "NICOCoins": 1,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 5,
+            "PlayerScore": 18,
+            "NICOScore": 14,
+            "PlayerCoins": 8,
+            "NICOCoins": 4,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 6,
+            "PlayerScore": 17,
+            "NICOScore": 16,
+            "PlayerCoins": 7,
+            "NICOCoins": 6,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 7,
+            "PlayerScore": 19,
+            "NICOScore": 18,
+            "PlayerCoins": 9,
+            "NICOCoins": 8,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 8,
+            "PlayerScore": 1,
+            "NICOScore": 28,
+            "PlayerCoins": 9,
+            "NICOCoins": 9,
+            "PlayerReturned": true,
+            "NICOReturned": false
+        },
+        {
+            "Round": 9,
+            "PlayerScore": 18,
+            "NICOScore": 7,
+            "PlayerCoins": 5,
+            "NICOCoins": 3,
+            "PlayerReturned": false,
+            "NICOReturned": true
+        },
+        {
+            "Round": 10,
+            "PlayerScore": 11,
+            "NICOScore": 11,
+            "PlayerCoins": 1,
+            "NICOCoins": 1,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 11,
+            "PlayerScore": 17,
+            "NICOScore": 6,
+            "PlayerCoins": 3,
+            "NICOCoins": 4,
+            "PlayerReturned": false,
+            "NICOReturned": true
+        },
+        {
+            "Round": 12,
+            "PlayerScore": 14,
+            "NICOScore": 11,
+            "PlayerCoins": 4,
+            "NICOCoins": 1,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 13,
+            "PlayerScore": 13,
+            "NICOScore": 14,
+            "PlayerCoins": 3,
+            "NICOCoins": 4,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 14,
+            "PlayerScore": 20,
+            "NICOScore": 4,
+            "PlayerCoins": 4,
+            "NICOCoins": 6,
+            "PlayerReturned": false,
+            "NICOReturned": true
+        },
+        {
+            "Round": 15,
+            "PlayerScore": 13,
+            "NICOScore": 11,
+            "PlayerCoins": 3,
+            "NICOCoins": 1,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        },
+        {
+            "Round": 16,
+            "PlayerScore": 15,
+            "NICOScore": 14,
+            "PlayerCoins": 5,
+            "NICOCoins": 4,
+            "PlayerReturned": true,
+            "NICOReturned": true
+        }
+    ]
+}
